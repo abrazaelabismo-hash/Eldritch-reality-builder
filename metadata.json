@@ -1,0 +1,6 @@
+{
+  "name": "Eldritch Reality Builder System",
+  "description": "Sistema de ingeniería de realidades alternativas basado en la Teoría de la Coherencia Primordial (TCP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
